@@ -24,15 +24,6 @@
   </li>
 </ul>
 
-<p>
-  <img src="https://img.shields.io/badge/Medium-Read%20my%20blog-blue?logo=medium&style=flat-square" alt="Medium" />
-  I write blogs on my projects and Data Analytics on <a href="https://medium.com/">Medium</a> <br>
-  <img src="https://img.shields.io/badge/Email-Contact%20me-blue?logo=gmail&style=flat-square" alt="Email" />
-  Reach me via email at <a href="mailto:ericinkoomayitey@gmail.com">ericinkoomayitey@gmail.com</a>
-</p>
-
----
-
 ## Tools 👩‍💻
 
 <ul>
@@ -42,17 +33,10 @@
   <li>Python (Numpy, Pandas, Matplotlib, Seaborn)</li>
 </ul>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn"/>
+<p align="center">
+  <img src="images/tools.png" width="600"/>
+</p>
+  Reach me via email at <a href="mailto:ericinkoomayitey@gmail.com">ericinkoomayitey@gmail.com</a>
 </p>
 
 ---
