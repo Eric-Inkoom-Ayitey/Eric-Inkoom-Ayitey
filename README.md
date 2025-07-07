@@ -53,7 +53,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/yourusername/8-Week-SQL-Challenge">8 Week SQL Challenge</a></td>
+      <td><a href="https://github.com/Eric-Inkoom-Ayitey/8-Week-SQL-Challenge">8 Week SQL Challenge</a></td>
       <td>PostgreSQL</td>
       <td>
         Wrote SQL queries to find solutions to various business questions in various industries including:
@@ -68,7 +68,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/yourusername/data-wrangling-analysis">Data Wrangling and Analysis</a></td>
+      <td><a href="https://github.com/Eric-Inkoom-Ayitey/data-wrangling-analysis">Data Wrangling and Analysis</a></td>
       <td>
         <ul>
           <li>Python (NumPy, Pandas, Matplotlib)</li>
@@ -129,13 +129,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/eric-inkoom-ayitey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&style=for-the-badge" />
   </a>
 </p>
