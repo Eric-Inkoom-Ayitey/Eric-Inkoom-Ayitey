@@ -1,8 +1,14 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#3498db;">Eric Inkoom Ayitey</span></h1>
+<h1 align="center">
+  Hi there👋, I'm 
+  <a href="https://linkedin.com/in/eric-inkoom-ayitey/" style="color:#3498db;" target="_blank">
+    Eric Inkoom Ayitey
+  </a>
+</h1>
 <hr/>
 
 <p align="center">
-  ![Profile Banner](image1)
+  <!-- Reference a GIF profile image uploaded to your repo, e.g., images/profile.gif -->
+  <img src="images/Frontpage.gif" alt="Profile GIF" width="600"/>
 </p>
 
 <ul>
