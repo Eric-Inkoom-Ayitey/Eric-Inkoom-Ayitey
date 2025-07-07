@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#3498db;">Samuel Ayer</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#3498db;">Eric Inkoom Ayitey</span></h1>
 <hr/>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Medium-Read%20my%20blog-blue?logo=medium&style=flat-square" alt="Medium" />
   I write blogs on my projects and Data Analytics on <a href="https://medium.com/">Medium</a> <br>
   <img src="https://img.shields.io/badge/Email-Contact%20me-blue?logo=gmail&style=flat-square" alt="Email" />
-  Reach me via email at <a href="mailto:ayersamuel210@gmail.com">ayersamuel210@gmail.com</a>
+  Reach me via email at <a href="mailto:ericinkoomayitey@gmail.com">ericinkoomayitey@gmail.com</a>
 </p>
 
 ---
