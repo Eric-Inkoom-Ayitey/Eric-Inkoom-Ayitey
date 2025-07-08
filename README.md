@@ -12,14 +12,18 @@
 </p>
 
 <ul>
-  <li>A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data</li>
+  <li>A data analyst leveraging SQL, MS Excel, Power BI, Tableau, Python, and R to extract actionable insights from data</li>
   <li>Skills include:
     <ul>
       <li>Data Collection and Consolidation</li>
-      <li>Data Assessment and Cleaning</li>
-      <li>Data Modelling</li>
-      <li>Data Analysis and Visualization</li>
+      <li>Data Assessment, Cleaning and Modelling</li>
+      <li>SQL & Database Management</li>
+       <li>Statistical & Analytical Thinking</li>
       <li>Report Writing and Insights Communication</li>
+      <li>Business Analysis and Project Management</li>
+      <li>Data Analysis and Visualization</li>
+      <li>Python for Data Science</li>
+      <li>Data Ethics, Data Literacy and Data Privacy</li>
     </ul>
   </li>
 </ul>
@@ -30,7 +34,9 @@
   <li>SQL (PostgreSQL, MySQL)</li>
   <li>MS Excel</li>
   <li>Power BI</li>
+  <li>Tableau</li>
   <li>Python (Numpy, Pandas, Matplotlib, Seaborn)</li>
+  <li>R Programming (dplyr, ggplot2, tidyr)</li>
 </ul>
 
 <p align="center">
@@ -53,7 +59,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Eric-Inkoom-Ayitey/8-Week-SQL-Challenge">8 Week SQL Challenge</a></td>
+      <td><a href="https://github.com/Eric-Inkoom-Ayitey/My-SQL-Projects">My SQL Queries</a></td>
       <td>PostgreSQL</td>
       <td>
         Wrote SQL queries to find solutions to various business questions in various industries including:
@@ -111,16 +117,16 @@
         </ul>
       </td>
       <td>
-        Performed exploratory data analysis by analyzing and visualizing univariate, bivariate and multivariate relationships between the variables in the data.
+        Performed exploratory data analysis by analyzing and visualizing univariate, bivariate, and multivariate relationships between the variables in the data.
         Generated explanatory data visuals by formatting visuals to tell a story using the insights discovered during exploratory data analysis.
         Prepared a slide deck to display explanatory visuals.
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/yourusername/superstore-sales-report">Superstore Sales Report</a></td>
+      <td><a href="https://github.com/Eric-Inkoom-Ayitey/Insurance-Project">Insurance Cost Factors Report</a></td>
       <td>Power BI</td>
       <td>
-        Analysis of the sales of a superstore over a period of 4 years
+        Exploring the key factors influencing insurance costs using real-world data. It provides insights on health, lifestyle, demographics, and customer engagement attributes to support data-driven decision-making in insurance.
       </td>
     </tr>
   </tbody>
