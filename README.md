@@ -60,7 +60,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Eric-Inkoom-Ayitey/My-SQL-Projects">My SQL Queries</a></td>
-      <td>PostgreSQL</td>
+      <td>MySQL</td>
       <td>
         Wrote SQL queries to find solutions to various business questions in various industries including:
         <ul>
