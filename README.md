@@ -58,6 +58,34 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/Eric-Inkoom-Ayitey/Asthma-Prediction-App">Asthma Prediction App</a></td>
+      <td>
+        <ul>
+          <li>Python (Pandas, Scikit-learn, Matplotlib)</li>
+          <li>Streamlit</li>
+        </ul>
+      </td>
+      <td>
+        Developed and deployed an asthma prediction model using a synthetic health dataset to demonstrate intelligent screening, feature prioritization, and clinical decision support potential in resource-aware settings</a>.<br/>
+        Activities include:
+        <ul>
+          <li>Preprocessing 15 health-related features</li>
+          <li>Visualizing key predictors</li>
+          <li>Imputing missing values</li>
+          <li>Building a fully serialized ML pipeline with RandomForestClassifier</li>
+          <li>Deploying an interactive Streamlit app for live predictions</li>
+          <li>Evaluating model performance (Accuracy: 94.7%, ROC AUC: 0.9909)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Eric-Inkoom-Ayitey/Insurance-Project">Insurance Cost Factors Report</a></td>
+      <td>Power BI</td>
+      <td>
+        Exploring the key factors influencing insurance costs using real-world data. It provides insights on health, lifestyle, demographics, and customer engagement attributes to support data-driven decision-making in insurance.
+      </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Eric-Inkoom-Ayitey/SQL-Queries">My SQL Queries</a></td>
       <td>MySQL</td>
@@ -70,27 +98,6 @@
           <li>financial markets</li>
           <li>fast moving consumer goods</li>
           <li>digital marketing</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Eric-Inkoom-Ayitey/data-wrangling-analysis">Data Wrangling and Analysis</a></td>
-      <td>
-        <ul>
-          <li>Python (NumPy, Pandas, Matplotlib)</li>
-          <li>Power BI</li>
-        </ul>
-      </td>
-      <td>
-        Gathered and analyzed tweets on dog ratings by <a href="https://twitter.com/WeRateDogs">WeRateDogs</a>.<br/>
-        Activities include:
-        <ul>
-          <li>gathering data from 3 sources</li>
-          <li>assessing data</li>
-          <li>cleaning data</li>
-          <li>statistical analysis and visualizations</li>
-          <li>deriving insights</li>
-          <li>visualising insights on a Power BI report</li>
         </ul>
       </td>
     </tr>
@@ -120,13 +127,6 @@
         Performed exploratory data analysis by analyzing and visualizing univariate, bivariate, and multivariate relationships between the variables in the data.
         Generated explanatory data visuals by formatting visuals to tell a story using the insights discovered during exploratory data analysis.
         Prepared a slide deck to display explanatory visuals.
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Eric-Inkoom-Ayitey/Insurance-Project">Insurance Cost Factors Report</a></td>
-      <td>Power BI</td>
-      <td>
-        Exploring the key factors influencing insurance costs using real-world data. It provides insights on health, lifestyle, demographics, and customer engagement attributes to support data-driven decision-making in insurance.
       </td>
     </tr>
   </tbody>
