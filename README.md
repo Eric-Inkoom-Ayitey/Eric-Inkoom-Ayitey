@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Reference a GIF profile image uploaded to your repo, e.g., images/profile.gif -->
-  <img src="images/Frontpage.gif" alt="Profile GIF" width="600"/>
-</p>
-
 <h1 align="center">
   Hi there👋, I'm 
   <a href="https://linkedin.com/in/eric-inkoom-ayitey/" style="color:#3498db;" target="_blank">
@@ -28,6 +23,12 @@
   </li>
 </ul>
 
+<p align="center">
+  <!-- Reference a GIF profile image uploaded to your repo, e.g., images/profile.gif -->
+  <img src="images/Frontpage.gif" alt="Profile GIF" width="600"/>
+</p>
+
+
 ## 🌐 Socials
 <p align="left">
   <!-- LinkedIn -->
@@ -46,7 +47,60 @@
   </a>
 </p>
 
- 
+
+<h2>💻 Tech Stack</h2>
+
+<table>
+  <tr>
+    <td>
+      <h4>🧠 Programming & Scripting</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
+        <img src="icons/Latex.png" width="40"/>
+        <img src="icons/bash-2.png" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+      </p>
+    </td>
+    <td style="width: 2px; background-color: gray;"></td>
+    <td>
+      <h4>📊 Data Science & ML</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+        <br/>
+        <img src="icons/scipy.png" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🛠️ Developer Tools</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+        <img src="icons/github.png" width="40"/>
+      </p>
+    </td>
+    <td style="width: 2px; background-color: gray;"></td>
+    <td>
+      <h4>🎨 Design</h4>
+      <p>
+        <img src="icons/canva.png" width="40"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ## Tools 👩‍💻
 
 <ul>
