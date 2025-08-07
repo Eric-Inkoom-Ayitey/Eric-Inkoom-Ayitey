@@ -74,7 +74,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
+        <img src="icons/scikit-learn.png" width="40"/>
         <img src="icons/scipy.png" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
@@ -113,7 +113,8 @@
       <p>
         <img src="icons/powerbi.jpg" width="40"/>
         <img src="icons/excel.png" width="40"/>
-        <img src="images/tableau.png" width="40"/>
+        <img src="icons/lookerr.png" width="40"/>
+        <img src="icons/tableaueu.jpg" width="40"/>
       </p>
     </td>
   </tr>
