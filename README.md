@@ -37,7 +37,7 @@
 
   <!-- Medium -->
   <a href="https://medium.com/@ericinkoomayitey" target="_blank" rel="noreferrer">
-    <img src="assets/icons/medium-2.png" alt="Medium" width="40" />
+    <img src="icons/medium-2.png" alt="Medium" width="40" />
   </a>
 
  <!-- Email -->
@@ -46,9 +46,6 @@
   </a>
 </p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nhanaba Qwame Hesky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eric-inkoom-ayitey/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ericinkoomayitey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ericinkoomayitey@gmail.com) 
  
 ## Tools 👩‍💻
 
