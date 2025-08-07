@@ -103,7 +103,7 @@
       <h4>🎨 Design & Docs</h4>
       <p>
         <img src="icons/canva.png" width="40"/>
-        <img src="icons/adobe-acrobat.png" width="40"/>
+        <img src="icons/adobe-acrobat.jpg" width="40"/>
       </p>
     </td>
   </tr>
