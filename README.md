@@ -100,6 +100,34 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td colspan="2">
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Inkoom-Ayitey&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Eric-Inkoom-Ayitey&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <!-- GitHub Streaks -->
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Eric-Inkoom-Ayitey&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Eric-Inkoom-Ayitey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Eric-Inkoom-Ayitey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ## Tools 👩‍💻
 
