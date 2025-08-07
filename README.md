@@ -111,7 +111,7 @@
     <td colspan="3">
       <h4>📈 Visualization</h4>
       <p>
-        <img src="icons/powerbi.png" width="40"/>
+        <img src="icons/powerbi.jpg" width="40"/>
         <img src="icons/excel.png" width="40"/>
         <img src="icons/tableau.png" width="40"/>
       </p>
