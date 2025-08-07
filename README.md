@@ -56,9 +56,11 @@
       <h4>🧠 Programming & Scripting</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
         <img src="icons/Latex.png" width="40"/>
         <img src="icons/bash-2.png" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
       </p>
@@ -72,12 +74,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-        <br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
         <img src="icons/scipy.png" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40"/>
       </p>
     </td>
   </tr>
@@ -88,13 +92,28 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
         <img src="icons/github.png" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+        <img src="icons/sqlserver.png" width="40"/>
       </p>
     </td>
     <td style="width: 2px; background-color: gray;"></td>
     <td>
-      <h4>🎨 Design</h4>
+      <h4>🎨 Design & Docs</h4>
       <p>
         <img src="icons/canva.png" width="40"/>
+        <img src="icons/adobe-acrobat.png" width="40"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <h4>📈 Visualization</h4>
+      <p>
+        <img src="icons/powerbi.png" width="40"/>
+        <img src="icons/excel.png" width="40"/>
+        <img src="icons/tableau.png" width="40"/>
       </p>
     </td>
   </tr>
@@ -127,24 +146,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Eric-Inkoom-Ayitey&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-## Tools 👩‍💻
-
-<ul>
-  <li>SQL (PostgreSQL, MySQL)</li>
-  <li>MS Excel</li>
-  <li>Power BI</li>
-  <li>Tableau</li>
-  <li>Python (Numpy, Pandas, Matplotlib, Seaborn)</li>
-  <li>R Programming (dplyr, ggplot2, tidyr)</li>
-</ul>
-
-<p align="center">
-  <img src="images/tools.png" width="600"/>
-</p>
-  Reach me via email at <a href="mailto:ericinkoomayitey@gmail.com">ericinkoomayitey@gmail.com</a>
-</p>
 
 ---
 
