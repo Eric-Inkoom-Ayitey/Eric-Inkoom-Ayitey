@@ -1,3 +1,8 @@
+<p align="center">
+  <!-- Reference a GIF profile image uploaded to your repo, e.g., images/profile.gif -->
+  <img src="images/Frontpage.gif" alt="Profile GIF" width="600"/>
+</p>
+
 <h1 align="center">
   Hi there👋, I'm 
   <a href="https://linkedin.com/in/eric-inkoom-ayitey/" style="color:#3498db;" target="_blank">
@@ -5,11 +10,6 @@
   </a>
 </h1>
 <hr/>
-
-<p align="center">
-  <!-- Reference a GIF profile image uploaded to your repo, e.g., images/profile.gif -->
-  <img src="images/Frontpage.gif" alt="Profile GIF" width="600"/>
-</p>
 
 <ul>
   <li>A data analyst leveraging SQL, MS Excel, Power BI, Tableau, Python, and R to extract actionable insights from data</li>
@@ -28,6 +28,28 @@
   </li>
 </ul>
 
+## 🌐 Socials
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/eric-inkoom-ayitey" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@ericinkoomayitey" target="_blank" rel="noreferrer">
+    <img src="assets/icons/medium-2.png" alt="Medium" width="40" />
+  </a>
+
+ <!-- Email -->
+  <a href="mailto:ericinkoomayitey@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+  </a>
+</p>
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nhanaba Qwame Hesky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eric-inkoom-ayitey/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ericinkoomayitey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ericinkoomayitey@gmail.com) 
+ 
 ## Tools 👩‍💻
 
 <ul>
