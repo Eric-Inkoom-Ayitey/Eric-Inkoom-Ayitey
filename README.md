@@ -113,7 +113,7 @@
       <p>
         <img src="icons/powerbi.jpg" width="40"/>
         <img src="icons/excel.png" width="40"/>
-        <img src="icons/tableau.png" width="40"/>
+        <img src="images/tableau.png" width="40"/>
       </p>
     </td>
   </tr>
