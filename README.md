@@ -211,20 +211,21 @@
         </ul>
       </td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/yourusername/show-noshow-medical-appointment">Investigating Show/NoShow to a medical appointment</a></td>
-      <td>
-        <ul>
-          <li>NumPy</li>
-          <li>Pandas</li>
-          <li>Matplotlib</li>
-        </ul>
-      </td>
-      <td>
-        Performed exploratory data analysis to identify factors that are important to predict if a patient will show up for their medical appointment.
-      </td>
-    </tr>
-    <tr>
+      <tr>
+  <td><a href="https://github.com/Eric-Inkoom-Ayitey/Social-Media-Campaign-Analytics-Dashboard">Social Media Campaign Analytics Dashboard</a></td>
+    <td>
+      <ul>
+        <li>Power BI</li>
+        <li>Data Visualization</li>
+        <li>Facebook Ads Analytics</li>
+      </ul>
+    </td>
+    <td>
+      <li>Developed an interactive dashboard analyzing Facebook advertising campaigns with detailed campaign performance, audience engagement, and budget utilization metrics.</li>
+      <li>Created rich visualizations covering impressions, clicks, costs, and demographic insights to support data-driven marketing optimization.</li>
+      <li>Enabled campaign trend tracking and actionable recommendations for improving ROI and ad spend efficiency.</li>
+    </td>
+  </tr>
       <td><a href="https://github.com/yourusername/ford-gobike-system-analysis">Ford GoBike System Data Analysis and Visualization</a></td>
       <td>
         <ul>
