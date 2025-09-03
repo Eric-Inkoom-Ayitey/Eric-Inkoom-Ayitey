@@ -212,7 +212,7 @@
       </td>
     </tr>
       <tr>
-  <td><a href="https://github.com/Eric-Inkoom-Ayitey/Social-Media-Campaign-Analytics-Dashboard">Social Media Campaign Analytics Dashboard</a></td>
+  <td><a href="https://github.com/Eric-Inkoom-Ayitey/FUTURE_DS_02">Social Media Campaign Analytics Dashboard</a></td>
     <td>
       <ul>
         <li>Power BI</li>
