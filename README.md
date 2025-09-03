@@ -226,20 +226,23 @@
       <li>Enabled campaign trend tracking and actionable recommendations for improving ROI and ad spend efficiency.</li>
     </td>
   </tr>
-      <td><a href="https://github.com/yourusername/ford-gobike-system-analysis">Ford GoBike System Data Analysis and Visualization</a></td>
-      <td>
-        <ul>
-          <li>NumPy</li>
-          <li>Pandas</li>
-          <li>Seaborn</li>
-        </ul>
-      </td>
-      <td>
-        Performed exploratory data analysis by analyzing and visualizing univariate, bivariate, and multivariate relationships between the variables in the data.
-        Generated explanatory data visuals by formatting visuals to tell a story using the insights discovered during exploratory data analysis.
-        Prepared a slide deck to display explanatory visuals.
-      </td>
-    </tr>
+      <tr>
+  <td><a href="https://github.com/Eric-Inkoom-Ayitey/FUTURE_DS_03">Student Feedback Analysis – Python & Power BI</a></td>
+  <td>
+    <ul>
+      <li>Pandas</li>
+      <li>Seaborn</li>
+      <li>Matplotlib</li>
+      <li>DAX</li>
+      <li>Power BI</li>
+    </ul>
+  </td>
+  <td>
+    <li>Analyzed structured student feedback using Python and Power BI to uncover satisfaction trends across multiple course dimensions.</li>
+    <li>Simulated sentiment from numerical ratings and extracted key performance indicators including average rating, top-rated category, and sentiment distribution.</li>
+    <li>Built an interactive Power BI dashboard with KPI cards, sentiment visuals, and comparative charts to guide academic improvements.</li>
+  </td>
+</tr>
   </tbody>
 </table>
 
