@@ -197,21 +197,6 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Eric-Inkoom-Ayitey/SQL-Queries">My SQL Queries</a></td>
-      <td>MySQL</td>
-      <td>
-        Wrote SQL queries to find solutions to various business questions in various industries including:
-        <ul>
-          <li>health analytics</li>
-          <li>marketing analytics</li>
-          <li>people analytics</li>
-          <li>financial markets</li>
-          <li>fast moving consumer goods</li>
-          <li>digital marketing</li>
-        </ul>
-      </td>
-    </tr>
-      <tr>
   <td><a href="https://github.com/Eric-Inkoom-Ayitey/FUTURE_DS_02">Social Media Campaign Analytics Dashboard</a></td>
     <td>
       <ul>
